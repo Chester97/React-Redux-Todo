@@ -1,6 +1,6 @@
 {
   "name": "todo-list",
-  "homepage": "https://github.com/Chester97/React-Redux-Todo-List",
+  "homepage": "https://github.com/Chester97/React-Redux-Todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
